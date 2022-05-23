@@ -1,4 +1,4 @@
-# basecampSp
+# BasecampSp
 
 Basecamp-42sp
 
